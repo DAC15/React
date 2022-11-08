@@ -1,0 +1,1 @@
+Sample react app that makes use of props for fetching data
